@@ -1,0 +1,11 @@
+{
+  "org": "modelcontextprotocol",
+  "repo": "ext-apps",
+  "versions": [
+    {
+      "commit": "82221c0c8ce7661efa6771c9d461511b1650495f",
+      "tag": "main",
+      "parsed_at": "2026-10-09T04:08:27.861199+00:00"
+    }
+  ]
+}
